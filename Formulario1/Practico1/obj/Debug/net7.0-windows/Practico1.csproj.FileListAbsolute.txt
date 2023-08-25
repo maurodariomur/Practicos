@@ -1,0 +1,17 @@
+C:\Users\mauro\source\repos\Formulario1\Practico1\bin\Debug\net7.0-windows\Practico1.exe
+C:\Users\mauro\source\repos\Formulario1\Practico1\bin\Debug\net7.0-windows\Practico1.deps.json
+C:\Users\mauro\source\repos\Formulario1\Practico1\bin\Debug\net7.0-windows\Practico1.runtimeconfig.json
+C:\Users\mauro\source\repos\Formulario1\Practico1\bin\Debug\net7.0-windows\Practico1.dll
+C:\Users\mauro\source\repos\Formulario1\Practico1\bin\Debug\net7.0-windows\Practico1.pdb
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.csproj.AssemblyReference.cache
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.Form1.resources
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.csproj.GenerateResource.cache
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.AssemblyInfoInputs.cache
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.AssemblyInfo.cs
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.dll
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\refint\Practico1.dll
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.pdb
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\Practico1.genruntimeconfig.cache
+C:\Users\mauro\source\repos\Formulario1\Practico1\obj\Debug\net7.0-windows\ref\Practico1.dll
